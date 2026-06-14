@@ -1,3 +1,3 @@
-# Hope time
+# Hope timer
 
 This is an application to track time in very specific incrementsr
